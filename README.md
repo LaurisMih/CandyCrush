@@ -8,6 +8,8 @@
 
 ## How to play
  To increase score you need to match three or four candies in a row or in a column
+ * Choose the candy, than drag and frop it to the right place, to match three or four candies
  * If you match four candies you get 4 points, if match three candies you get 3 points
+ * You can only move one cell up down to the right or left
  ![image](https://user-images.githubusercontent.com/108615436/207988706-8cf60aab-5695-49c6-90b7-6a39dee5b34f.png)
 
